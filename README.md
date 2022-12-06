@@ -1,1 +1,0 @@
-# Theatre-Management-System
